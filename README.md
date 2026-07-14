@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sourav842741/Leetcode--Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sourav842741/Leetcode--Question/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
