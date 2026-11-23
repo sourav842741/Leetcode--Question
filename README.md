@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/sourav842741/Leetcode--Question/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/sourav842741/Leetcode--Question/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/sourav842741/Leetcode--Question/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/sourav842741/Leetcode--Question/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sourav842741/Leetcode--Question/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourav842741/Leetcode--Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sourav842741/Leetcode--Question/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sourav842741/Leetcode--Question/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sourav842741/Leetcode--Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/sourav842741/Leetcode--Question/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sourav842741/Leetcode--Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sourav842741/Leetcode--Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/sourav842741/Leetcode--Question/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sourav842741/Leetcode--Question/tree/master/3312-sorted-gcd-pair-queries) |
@@ -508,4 +511,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sourav842741/Leetcode--Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sourav842741/Leetcode--Question/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
